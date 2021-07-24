@@ -1,0 +1,14 @@
+{
+    "name": "aternos_bot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js xinghao2003.aternos.me 25565 xinghao200301"
+    },
+    "author": "MyT",
+    "license": "ISC",
+    "dependencies": {
+      "mineflayer": "^2.41.0"
+    }
+  }
